@@ -1,0 +1,6 @@
+{
+  "name": "MingalarSub Studio — AI Auto Subtitle & Burmese Translation",
+  "description": "Production-grade AI video and audio auto-subtitling studio with FFmpeg audio extraction, speech transcription, natural Myanmar (Burmese Unicode) localization via Gemini High Thinking, interactive timeline editing, and UTF-8 SRT export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
